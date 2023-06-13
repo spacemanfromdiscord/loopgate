@@ -21,9 +21,8 @@ Here are two examples:
 
 const unlockables: Unlockable[] = [
   {
-    cid: "bafybeiehgpaip4f7jafzf7imgannx3nnv3ubaiwp6ph56mlyzijpqxi45m", // HTML blog example
-    nftId: [
-      "0x3d483f631a391a3706446613929d253cfddcb47900a07593c5004c5e3827d9ee",
+    cid: "bafybeicf3cxjilz4jo74f3bvvv77s3v4sz3gp5etmbkno6as52ao662y3i", // HTML blog example
+    nftId: ["0xe2b99771cb4032bb37b6eb83947ba2bd4483d5be5d4e0192915e07434910c854"
     ], // You need to own 'GM #1' to unlock this.
   },
   {
